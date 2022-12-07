@@ -59,3 +59,4 @@ python manage.py loaddata <DATABASE>
 ```
 
 ## Made by Mikhail Rizhikau, Alexey Nikolaev, Artem Sinitsyn. Curated by Ya.Practicum.
+![Deploy workflow](https://github.com/artemxpma/yamdb_final/actions/workflows/main.yml/badge.svg)
