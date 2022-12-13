@@ -57,6 +57,6 @@ $ docker container exec -it <CONTAINER> bash
 ```
 python manage.py loaddata fixtures.json
 ```
-
+Project availiable at (http://51.250.4.136/) (if you got lucky).
 ## Made by Mikhail Rizhikau, Alexey Nikolaev, Artem Sinitsyn. Curated by Ya.Practicum.
 ![Deploy workflow](https://github.com/artemxpma/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
