@@ -31,7 +31,7 @@ DB_PORT=5432
 
 ## Installation
 
-Для запуска приложения проделайте следующие шаги:
+To run the app, go through next steps:
 
 1. Clone repo.
 2. Run ```$ sudo docker-compose up -d --build``` from */infra* folder to start docker-compose and build the container.
