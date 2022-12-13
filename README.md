@@ -55,7 +55,7 @@ Load data from file inside your container:
 $ docker container exec -it <CONTAINER> bash
 ```
 ```
-python manage.py loaddata <DATABASE>
+python manage.py loaddata fixtures.json
 ```
 
 ## Made by Mikhail Rizhikau, Alexey Nikolaev, Artem Sinitsyn. Curated by Ya.Practicum.
